@@ -1,0 +1,187 @@
+
+body {
+	color: #e05297;
+	margin:0;
+	text-align: center;
+}
+
+h1{
+	color:#28abb9;
+	font-size: 90px;
+	line-height: 1;
+ 	margin-top: 0; 
+    font-family: 'Great Vibes', cursive;
+ }
+  
+h1:hover {
+	color:#00e0ff;
+}
+
+h2{
+	color:#00e0ff;
+	font-size: 30px;
+    font-family: 'Redressed', cursive;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h2:hover {
+	color:#0e49b5;
+}
+
+h3{
+	color:#fa26a0;
+	font-size: 20px;
+	font-family: 'Yeon Sung', cursive;
+	margin: 0;
+}
+
+p{
+	color:#00e0ff;
+	font-size: 20px;
+	margin: 0;
+}
+
+p:hover{
+	color:#fa26a0;
+}
+hr {
+	color:#ff165d;
+	border: dotted 10PX;
+	border-bottom: none;
+	width: 20%;
+	margin: 50px auto 50px;
+}
+
+
+hr:hover {
+	color:#0e49b5;
+}
+
+a {
+	color:#fa26a0;
+    font-family: 'Yeon Sung', cursive;
+    margin: 20px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+	color:#EAF6F6;
+}
+
+
+.pro {
+color:#28abb9; }
+
+#k{
+	margin-bottom: 200px;
+}
+#bs{
+	height: 343px;
+}
+
+.top-container {
+	background-color: #bce6eb;
+	position: relative;
+	padding-top: 100px;
+}
+
+.middle-container {
+	margin: 80px 0 ;
+}
+
+
+
+.bottom-container {
+	background-color:#fbbedf;
+	padding: 50px 0 20px;
+}
+
+.sports-row {
+	   width: 50%;
+       margin: 100px auto 100px auto;
+	   text-align: left;
+	   line-height: 2;
+}
+
+
+.contact-message {
+	color:#fa26a0;
+	font-size: 20px;
+	width:80%;
+	margin: 40px auto  60px;
+}
+
+.contact-message:hover{
+	color:#0e49b5;
+}
+
+.copyright {
+	color: #EAF6F6;
+	font-size: 30px;
+	padding: 20px 0;
+}
+
+.copyright:hover {
+	color:#fa26a0;
+}
+
+.mountain {
+	position: absolute;
+	right: 300px;
+	top: 200px;
+	margin-top: 100px;
+}
+
+#b{
+	margin-bottom: 50px;
+}
+#a{
+	height: 327px;
+}
+
+
+.cricket {
+     width:250px;
+     height:170px;
+     float:left;
+     margin-right:20px;
+
+}
+
+
+.football {
+     width:230px;
+     height:150px;
+     float: right;
+     margin-left:20px;
+}
+
+
+
+.btn {
+  background: #19f2fa;
+  background-image: -webkit-linear-gradient(top, #19f2fa, #0f3efa);
+  background-image: -moz-linear-gradient(top, #19f2fa, #0f3efa);
+  background-image: -ms-linear-gradient(top, #19f2fa, #0f3efa);
+  background-image: -o-linear-gradient(top, #19f2fa, #0f3efa);
+  background-image: linear-gradient(to bottom, #19f2fa, #0f3efa);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #00eeff;
+  background-image: -webkit-linear-gradient(top, #00eeff, #fa1ef3);
+  background-image: -moz-linear-gradient(top, #00eeff, #fa1ef3);
+  background-image: -ms-linear-gradient(top, #00eeff, #fa1ef3);
+  background-image: -o-linear-gradient(top, #00eeff, #fa1ef3);
+  background-image: linear-gradient(to bottom, #00eeff, #fa1ef3);
+  text-decoration: none;
+}
